@@ -1,0 +1,23 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JS con Node (Viendo OpenBootCamp)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolidDogor/primer-proyecto-nodejs.git"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "Alejandro Olivos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolidDogor/primer-proyecto-nodejs/issues"
+  },
+  "homepage": "https://github.com/SolidDogor/primer-proyecto-nodejs#readme"
+}
